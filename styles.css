@@ -1,0 +1,41 @@
+body {
+    background: rgb(50, 54, 57);
+    color: whitesmoke;
+    text-align: center;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    height: 100vh;
+    overflow: hidden;
+}
+
+button {
+    background: black;
+    color: whitesmoke;
+    font-size: 18px;
+    border: none;
+    border-radius: 2px;
+    padding: 12px;
+    cursor: pointer;
+}
+
+form {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+div {
+    margin: 10px;
+}
+
+input {
+    border: none;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+label {
+    display: block;
+    text-align: left;
+}

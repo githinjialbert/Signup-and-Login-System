@@ -18,6 +18,7 @@ button {
     cursor: pointer;
 }
 
+
 form {
     display: flex;
     justify-content: center;
@@ -39,15 +40,3 @@ label {
     display: block;
     text-align: left;
 }
-
-p, a {
-    color: white;
-    text-decoration: none;
-    display: inline-block;
-}
-
- a:hover {
-    text-decoration: underline;
-    color: blue;
-}
-

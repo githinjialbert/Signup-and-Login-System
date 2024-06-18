@@ -22,6 +22,7 @@ require_once 'includes/signupView.inc.php';
             <p>Your Information is Safe With Us!</p>
             <button type="submit">Get Access Today</button>
         </form>
+        <p>Already have an account? <a href="http://localhost/signupSystem/Signup-and-Login-System/loginPage.php">Log In</a></p>
     </main>
 
     <?php
